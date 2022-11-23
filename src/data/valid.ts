@@ -1,5 +1,4 @@
-{
-  "valid" : [
+const valid = [
   "women",
   "nikau",
   "swack",
@@ -12947,5 +12946,6 @@
   "grits",
   "kames",
   "death"
-  ]
-}
+  ];
+
+  export default valid;
